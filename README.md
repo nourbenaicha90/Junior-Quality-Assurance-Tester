@@ -1,29 +1,3 @@
-# QA Testing Portfolio | Nour Elyakine Ben Aicha
-
-**Junior QA Tester | API Testing | Manual Testing | Bug Reporting**
-
-Based in Algeria · Open to remote opportunities and relocation to Qatar  
-**Contact:** Add your professional email · **LinkedIn:** Add your LinkedIn URL · **GitHub:** Add your GitHub profile URL
-
----
-
-## Professional Profile
-
-Master's graduate in Information and Communication Technology with an academic and project background in software development. Interested in software quality assurance, with practical familiarity with API testing using Postman, functional checks, identifying defects, and troubleshooting application behaviour.
-
-I am building this portfolio to demonstrate a structured, evidence-based approach to testing. The examples in this repository are **demonstration materials** and should be updated with test runs and screenshots from my own execution before being presented as completed professional work.
-
-## Core Skills
-
-- **API testing:** Postman, HTTP methods, status codes, JSON response validation
-- **Manual testing:** Functional, positive/negative, boundary and regression testing
-- **Defect reporting:** Reproduction steps, expected/actual results, severity and priority
-- **Technical foundation:** Software development, web applications, databases, SQL fundamentals
-- **Quality mindset:** Clear evidence, reproducibility, risk awareness and concise communication
-
-> Only list tools and skills you can confidently discuss in an interview. Add versions, project details and evidence as you complete the exercises.
-
-## Portfolio Projects
 
 | Project | What it demonstrates | Materials |
 |---|---|---|
