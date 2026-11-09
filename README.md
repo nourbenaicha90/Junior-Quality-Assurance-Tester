@@ -54,6 +54,3 @@ See [`bug-reports/BUG-REPORT-TEMPLATE.md`](bug-reports/BUG-REPORT-TEMPLATE.md) a
 
 Seeking a **Junior QA Tester / QA Intern / Software Tester** opportunity where I can contribute to manual and API testing, learn established QA practices, and grow within a collaborative engineering team. Open to remote internships and opportunities involving relocation to Qatar, subject to the employer's work-authorisation process.
 
----
-
-*Portfolio status: starter portfolio with practice examples. Update the contact details and add evidence from tests you personally execute before sharing with recruiters.*
